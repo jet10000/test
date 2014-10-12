@@ -3,4 +3,8 @@ test
 
 test
 
-# hello world
+# 中国话
+
+- 中文1
+- 中文2
+- 中文3
